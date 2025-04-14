@@ -38,7 +38,7 @@ streamlit run app.py
 
 ---
 
-## 🏗️ Input Features
+## Input Features
 
 | Feature         | Description                          |
 |----------------|--------------------------------------|
@@ -72,7 +72,7 @@ Logs are saved to `logs/app.log` and include runtime info, warnings, and errors 
 
 ## ☁️ Deployment
 
-You can deploy this app on [Streamlit Cloud](https://streamlit.io/cloud) by pushing this project to a public GitHub repository and linking it through the Streamlit dashboard.
+You can deploy this app on https://realestateapp0.streamlit.app/
 
 ---
 
