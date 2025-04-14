@@ -83,7 +83,3 @@ Business Intelligence System Infrastructure
 Algonquin College 
 
 ---
-
-## 📄 License
-
-This project is licensed for academic use.
